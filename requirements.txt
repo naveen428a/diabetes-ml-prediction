@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pandas
 numpy
 matplotlib
@@ -6,4 +7,14 @@ scikit-learn
 
 -pandas, numpy – for data handling
 -matplotlib, seaborn – for visualization
+=======
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+-pandas, numpy – for data handling
+-matplotlib, seaborn – for visualization
+>>>>>>> 8474749385e68c80839e8286df49df1970b9ae5a
 -scikit-learn – for ML models
