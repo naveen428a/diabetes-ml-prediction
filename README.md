@@ -5,8 +5,7 @@ Diabetes prediction using supervised machine learning
 This project is a practical implementation of the research paper titled:
 "Supervised Machine Learning based Ensemble Model for Accurate Prediction of Type 2 Diabetes" which is published on ResearchGate.
 
-The goal is to classify patients as diabetic or non-diabetic using supervised machine learning techniques applied to a health dataset. This serves as a hands-on application of ML 
-techniques in healthcare analytics.
+The goal is to classify patients as diabetic or non-diabetic using supervised machine learning techniques applied to a two Real health datasets: Pima Indians and Practice Fusion in which both referenced in similar studies for diabetes classification. This serves as a hands-on application of ML techniques in healthcare analytics.
 
 ---
 - Loads and preprocesses a diabetes dataset
