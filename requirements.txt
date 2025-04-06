@@ -4,5 +4,6 @@ matplotlib
 seaborn
 scikit-learn
 
-pandas, numpy – for data handling
-matplotlib, seaborn – for visualization
+pandas,numpy – for data handling
+matplotlib,seaborn – for visualization
+scikit-learn – for ML models
